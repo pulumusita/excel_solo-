@@ -101,7 +101,7 @@ def create_or_open_excel(folder_path):
 # # 定义变量
 # first_search_text = '期货持仓汇总'  # 替换为你要搜索的第一个文字
 # xls_file = 'xlsfile' # 文件夹
-# #xls_file = '2024-11-14  东证  永盛  013593000999_2024-11-14.xls'  # 替换为你的Excel文件路径
+# #xls_file = '2024-11-14  东证  永盛  00000000000_2024-11-14.xls'  # 替换为你的Excel文件路径
 
 # # 调用主函数
 # traverse_folder_and_test(xls_file,first_search_text)
